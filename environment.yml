@@ -1,0 +1,17 @@
+name: metagenomics_16s
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - kraken2
+  - bracken
+  - krona
+  - vsearch
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn

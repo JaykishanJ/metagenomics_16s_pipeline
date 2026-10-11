@@ -1,0 +1,89 @@
+100.00	110895	0	R	1	root
+100.00	110895	0	D	3	  Bacteria
+92.27	102317	0	P	34	    Firmicutes
+83.54	92644	0	C	226	      Clostridia
+83.54	92644	0	O	527	        Clostridiales
+61.09	67743	0	F	1017	          Lachnospiraceae
+24.00	26611	0	G	1797	            Blautia
+10.45	11584	11584	S	2777	              Blautia producta
+13.55	15027	15027	S	2776	              Blautia obeum
+19.67	21817	0	G	1810	            [Ruminococcus]
+8.13	9016	9016	S	2783	              [Ruminococcus] gnavus
+11.54	12801	12801	S	2784	              [Ruminococcus] torques
+11.68	12954	0	G	1808	            Roseburia
+11.68	12954	12954	S	2782	              Roseburia faecis
+4.31	4779	0	G	1801	            Dorea
+4.31	4779	4779	S	2780	              Dorea formicigenerans
+1.43	1580	0	G	1800	            Coprococcus
+1.43	1580	1580	S	2779	              Coprococcus eutactus
+21.35	23680	0	F	1020	          Ruminococcaceae
+19.98	22157	0	G	1829	            Faecalibacterium
+19.98	22157	22157	S	2788	              Faecalibacterium prausnitzii
+1.37	1523	0	G	1831	            Ruminococcus
+1.05	1165	1165	S	2790	              Ruminococcus bromii
+0.32	357	357	S	2792	              Ruminococcus flavefaciens
+0.70	773	0	F	1025	          Veillonellaceae
+0.61	681	0	G	1854	            Veillonella
+0.45	498	498	S	2801	              Veillonella dispar
+0.17	183	183	S	2802	              Veillonella parvula
+0.07	73	0	G	1850	            Selenomonas
+0.07	73	73	S	2798	              Selenomonas noxia
+0.02	17	0	G	1842	            Megamonas
+0.02	17	17	S	2796	              Megamonas hypermegale
+0.40	447	0	F	1010	          Clostridiaceae
+0.40	447	0	G	1777	            Clostridium
+0.20	221	221	S	2766	              Clostridium hiranonis
+0.05	52	52	S	2770	              Clostridium perfringens
+0.16	173	173	S	2765	              Clostridium butyricum
+7.62	8455	0	C	227	      Erysipelotrichi
+7.62	8455	0	O	535	        Erysipelotrichales
+7.62	8455	0	F	1043	          Erysipelotrichaceae
+7.51	8332	0	G	1908	            [Eubacterium]
+7.20	7987	7987	S	2816	              [Eubacterium] dolichum
+0.31	344	344	S	2814	              [Eubacterium] biforme
+0.11	118	0	G	1899	            Bulleidia
+0.09	97	97	S	2809	              Bulleidia p-1630-c5
+0.02	20	20	S	2808	              Bulleidia moorei
+0.00	5	0	G	1907	            Sharpea
+0.00	5	5	S	2812	              Sharpea azabuensis
+1.10	1217	0	C	225	      Bacilli
+1.10	1217	0	O	524	        Lactobacillales
+0.66	726	0	F	1004	          Lactobacillaceae
+0.66	726	0	G	1760	            Pediococcus
+0.66	726	726	S	2750	              Pediococcus acidilactici
+0.44	490	0	F	1006	          Streptococcaceae
+0.44	490	0	G	1765	            Streptococcus
+0.44	490	490	S	2758	              Streptococcus infantis
+5.46	6054	0	P	17	    Bacteroidetes
+5.46	6054	0	C	169	      Bacteroidia
+5.46	6054	0	O	423	        Bacteroidales
+5.40	5987	0	F	884	          Bacteroidaceae
+5.40	5987	0	G	1497	            Bacteroides
+2.00	2221	2221	S	2596	              Bacteroides fragilis
+1.13	1253	1253	S	2599	              Bacteroides uniformis
+1.16	1290	1290	S	2592	              Bacteroides caccae
+0.73	811	811	S	2597	              Bacteroides ovatus
+0.26	286	286	S	2598	              Bacteroides plebeius
+0.08	93	93	S	2590	              Bacteroides acidifaciens
+0.01	12	12	S	2593	              Bacteroides coprophilus
+0.02	18	18	S	2595	              Bacteroides eggerthii
+0.06	67	0	F	889	          Prevotellaceae
+0.06	67	0	G	1504	            Prevotella
+0.04	46	46	S	2606	              Prevotella melaninogenica
+0.02	20	20	S	2604	              Prevotella copri
+2.27	2522	0	P	11	    Actinobacteria
+1.76	1953	0	C	145	      Actinobacteria
+1.76	1953	0	O	404	        Bifidobacteriales
+1.76	1953	0	F	864	          Bifidobacteriaceae
+1.76	1953	0	G	1472	            Bifidobacterium
+1.65	1833	1833	S	2583	              Bifidobacterium longum
+0.06	63	63	S	2579	              Bifidobacterium adolescentis
+0.02	20	20	S	2585	              Bifidobacterium thermacidophilum
+0.03	35	35	S	2582	              Bifidobacterium breve
+0.51	569	0	C	146	      Coriobacteriia
+0.51	569	0	O	407	        Coriobacteriales
+0.51	569	0	F	867	          Coriobacteriaceae
+0.51	561	0	G	1480	            Eggerthella
+0.51	561	561	S	2589	              Eggerthella lenta
+0.01	7	0	G	1478	            Collinsella
+0.01	7	7	S	2587	              Collinsella aerofaciens

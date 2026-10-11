@@ -1,0 +1,332 @@
+416	Bacteria
+909	Bacteria	Firmicutes
+90	Bacteria	Firmicutes	Clostridia
+19712	Bacteria	Firmicutes	Clostridia	Clostridiales
+21720	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae
+7766	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia
+918	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia obeum
+355	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia producta
+762	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Ruminococcus]
+755	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Ruminococcus]	[Ruminococcus] gnavus
+280	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Ruminococcus]	[Ruminococcus] torques
+979	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea
+150	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea formicigenerans
+940	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus
+26	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus eutactus
+323	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia
+269	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia faecis
+414	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospira
+387	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Butyrivibrio
+202	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes
+88	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Epulopiscium
+41	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnobacterium
+36	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Oribacterium
+34	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Pseudobutyrivibrio
+31	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Shuttleworthia
+21	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Moryella
+5	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Catonella
+791	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae
+6245	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Megamonas
+207	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Megamonas	Megamonas hypermegale
+186	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Veillonella
+102	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Veillonella	Veillonella dispar
+29	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Veillonella	Veillonella parvula
+192	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Phascolarctobacterium
+102	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Selenomonas
+9	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Selenomonas	Selenomonas noxia
+8	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Selenomonas	Selenomonas ruminantium
+60	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Dialister
+29	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Megasphaera
+21	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Mitsuokella
+14	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Anaerovibrio
+6	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Anaeromusa
+6	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Pelosinus
+5	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Sporomusa	Sporomusa polytropa
+3	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	G07
+3	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Succiniclasticum
+2	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Pectinatus
+2	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Acidaminococcus
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Veillonellaceae	Schwartzia
+2610	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae
+4185	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii
+470	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus
+53	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus bromii
+39	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	Ruminococcus flavefaciens
+253	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillospira
+2	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus
+827	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae
+53	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptostreptococcus
+3	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Tepidibacter
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Filifactor
+405	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae
+248	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium
+53	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium hiranonis
+23	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium perfringens
+7	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium pasteurianum
+6	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium butyricum
+2	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium neonatale
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium bowmanii
+25	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Sarcina
+7	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Natronincola_Anaerovirgula
+4	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Oxobacter
+2	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Alkaliphilus	Alkaliphilus transvaalensis
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Tindallia_Anoxynatronum
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Thermoanaerobacterium	Thermoanaerobacterium saccharolyticum
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Proteiniclasticum
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Geosporobacter_Thermotalea
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridiisalibacter
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Caloramator
+15	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]
+58	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Peptoniphilus
+55	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	1-68
+52	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Anaerococcus
+37	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Parvimonas
+25	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	WAL_1855D
+24	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Finegoldia
+9	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Sporanaerobacter
+5	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Sedimentibacter
+2	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Helcococcus
+2	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	ph2
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	GW-34
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Gallicola
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	[Tissierellaceae]	Tissierella_Soehngenia
+41	Bacteria	Firmicutes	Clostridia	Clostridiales	[Mogibacteriaceae]
+90	Bacteria	Firmicutes	Clostridia	Clostridiales	[Mogibacteriaceae]	Mogibacterium
+16	Bacteria	Firmicutes	Clostridia	Clostridiales	[Mogibacteriaceae]	Anaerovorax
+9	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae
+9	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Pelotomaculum
+5	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	rc4-4
+3	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfosporosinus
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfosporosinus	Desulfosporosinus meridiei
+4	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Peptococcus
+4	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Sporotomaculum
+2	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Dehalobacter_Syntrophobotulus
+2	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfitobacter
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum_Desulfovirgula
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Niigata-25
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	[Acidaminobacteraceae]
+28	Bacteria	Firmicutes	Clostridia	Clostridiales	[Acidaminobacteraceae]	Fusibacter
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	[Acidaminobacteraceae]	Guggenheimella
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	[Acidaminobacteraceae]	WH1-8
+21	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Anaerofustis
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Pseudoramibacter_Eubacterium
+17	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae
+15	Bacteria	Firmicutes	Clostridia	Clostridiales	Symbiobacteriaceae	Symbiobacterium
+13	Bacteria	Firmicutes	Clostridia	Clostridiales	Gracilibacteraceae	Gracilibacter
+9	Bacteria	Firmicutes	Clostridia	Clostridiales	Dehalobacteriaceae	Dehalobacterium
+6	Bacteria	Firmicutes	Clostridia	Clostridiales	Syntrophomonadaceae	Syntrophomonas
+3	Bacteria	Firmicutes	Clostridia	Clostridiales	Heliobacteriaceae
+2	Bacteria	Firmicutes	Clostridia	Clostridiales	SBYG_4172
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	Sulfobacillaceae	Sulfobacillus
+1	Bacteria	Firmicutes	Clostridia	Clostridiales	EtOH8
+4	Bacteria	Firmicutes	Clostridia	Thermoanaerobacterales
+2	Bacteria	Firmicutes	Clostridia	Thermoanaerobacterales	Thermodesulfobiaceae	Coprothermobacter
+2	Bacteria	Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Natroniella
+75	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae
+20	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	[Eubacterium]
+18226	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	[Eubacterium]	[Eubacterium] biforme
+101	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	[Eubacterium]	[Eubacterium] dolichum
+3	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	[Eubacterium]	[Eubacterium] cylindroides
+15505	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Catenibacterium
+20	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Catenibacterium	Catenibacterium mitsuokai
+36	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Allobaculum
+20	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus
+1	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Bulleidia	Bulleidia moorei
+1	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	Bulleidia	Bulleidia p-1630-c5
+2	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	cc_115
+1	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	L7A_E11
+1	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	PSB-M-3
+1	Bacteria	Firmicutes	Erysipelotrichi	Erysipelotrichales	Erysipelotrichaceae	RFN20
+51	Bacteria	Firmicutes	Bacilli
+34	Bacteria	Firmicutes	Bacilli	Lactobacillales
+132	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae
+1282	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus
+18	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus
+7	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus infantis
+5	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus alactolyticus
+5	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus luteciae
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus equi
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus
+6	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae
+108	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Weissella
+10	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Leuconostoc
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Leuconostoc	Leuconostoc mesenteroides
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae
+42	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus
+9	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus salivarius
+2	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus reuteri
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus zeae
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus vaginalis
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus ruminis
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus mucosae
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Pediococcus
+2	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae
+24	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella
+4	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Trichococcus
+8	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus
+4	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Alloiococcus
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia
+1	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Facklamia
+3	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae
+3	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus
+2	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Tetragenococcus	Tetragenococcus halophilus
+19	Bacteria	Firmicutes	Bacilli	Bacillales
+13	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae
+125	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus
+4	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus badius
+3	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus flexus
+3	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus muralis
+2	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus coagulans
+1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cohnii
+1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus endophyticus
+1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus farraginis
+2	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus
+1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Anoxybacillus	Anoxybacillus kestanbolensis
+1	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae
+9	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus
+3	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+2	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus epidermidis
+2	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Rummeliibacillus
+1	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Planococcus	Planococcus maitriensis
+1	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Planomicrobium
+1	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Sporosarcina
+1	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Ureibacillus
+3	Bacteria	Firmicutes	Bacilli	Bacillales	[Exiguobacteraceae]	Exiguobacterium
+2	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus
+1	Bacteria	Firmicutes	Bacilli	Bacillales	Sporolactobacillaceae	Sporolactobacillus
+6	Bacteria	Firmicutes	Bacilli	Gemellales	Gemellaceae
+5	Bacteria	Firmicutes	Bacilli	Gemellales	Gemellaceae	Gemella
+1	Bacteria	Firmicutes	Bacilli	Turicibacterales	Turicibacteraceae	Turicibacter
+3	Bacteria	Bacteroidetes
+1671	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales
+22	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae
+9045	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides
+2147	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides coprophilus
+493	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides ovatus
+328	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caccae
+323	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides uniformis
+274	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides plebeius
+223	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis
+81	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides acidifaciens
+60	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides eggerthii
+4	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides barnesiae
+1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides coprosuis
+14	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	BF311
+6	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	5-7N15
+1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Paraprevotellaceae]
+1201	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Paraprevotellaceae]	Paraprevotella
+48	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Paraprevotellaceae]	[Prevotella]
+3	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Paraprevotellaceae]	[Prevotella]	[Prevotella] tannerae
+9	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae
+485	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides
+332	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides distasonis
+2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides gordonii
+5	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas
+1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Candidatus Azobacteroides
+1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Dysgonomonas
+1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae
+61	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella
+25	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella copri
+14	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella melaninogenica
+8	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella stercorea
+1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella nanceiensis
+1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella nigrescens
+64	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Odoribacteraceae]	Butyricimonas
+1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Odoribacteraceae]	Odoribacter
+61	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	S24-7
+34	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	[Barnesiellaceae]
+6	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae
+3	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinilabiaceae
+1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	BS11
+1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	SB-1
+1	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium
+1	Bacteria	Bacteroidetes	[Rhodothermi]	[Rhodothermales]	Rhodothermaceae	Salinibacter
+23	Bacteria	Actinobacteria
+61	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae
+82	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella
+3391	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella aerofaciens
+70	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella stercoris
+201	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Adlercreutzia
+179	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Slackia
+36	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Atopobium
+2	Bacteria	Actinobacteria	Actinobacteria
+334	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium
+85	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium longum
+5	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium adolescentis
+2	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium bifidum
+1	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium pseudolongum
+2	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales
+109	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces
+1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Arcanobacterium
+3	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Rothia
+10	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Rothia	Rothia mucilaginosa
+1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Rothia	Rothia aeria
+3	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Corynebacteriaceae	Corynebacterium
+1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Corynebacteriaceae	Corynebacterium	Corynebacterium durum
+1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinospicaceae
+1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micromonosporaceae
+1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium chocolatum
+1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Brevibacteriaceae	Brevibacterium
+1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Phycicoccus
+1	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Propionibacteriaceae	Propionibacterium	Propionibacterium acnes
+3	Bacteria	Actinobacteria	OPB41
+1	Bacteria	Actinobacteria	Thermoleophilia
+1	Bacteria	Actinobacteria	Thermoleophilia	Gaiellales	Gaiellaceae
+1	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales	EB1017
+4	Bacteria	Proteobacteria
+1	Bacteria	Proteobacteria	Betaproteobacteria
+218	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Sutterella
+1	Bacteria	Proteobacteria	Betaproteobacteria	Tremblayales	Tremblayaceae
+3	Bacteria	Proteobacteria	Deltaproteobacteria
+47	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila
+9	Bacteria	Proteobacteria	Deltaproteobacteria	BPC076
+4	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales
+2	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae
+6	Bacteria	Proteobacteria	Gammaproteobacteria
+23	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae
+2	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia
+1	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella
+6	Bacteria	Proteobacteria	Gammaproteobacteria	Thiohalorhabdales	Thiohalorhabdaceae
+1	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae
+3	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus parainfluenzae
+2	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	Hydrocarboniphaga
+1	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	OM60
+1	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Pseudoalteromonadaceae
+1	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	Alcanivorax
+1	Bacteria	Proteobacteria	Alphaproteobacteria
+2	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales
+1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium
+1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Hyphomonadaceae	Oceanicaulis
+1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Phaeobacter
+1	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium
+1	Bacteria	Proteobacteria	Epsilonproteobacteria	Nautiliales	Nautiliaceae
+9	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Candidatus Hepatoplasma
+6	Bacteria	Cyanobacteria	Chloroplast	CAB-I
+1	Bacteria	Cyanobacteria	Chloroplast	Haptophyceae
+1	Bacteria	Armatimonadetes
+3	Bacteria	Armatimonadetes	MD2902-B50
+1	Bacteria	Armatimonadetes	SJA-176	TP122
+1	Bacteria	Chloroflexi	Anaerolineae
+2	Bacteria	Chloroflexi	Anaerolineae	OPB11
+1	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b
+1	Bacteria	Chloroflexi	Chloroflexi	Chloroflexales	01D2Z48
+2	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium
+1	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia
+3	Bacteria	SR1
+2	Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	vadinCA02
+2	Bacteria	Acidobacteria	Solibacteres	Solibacterales
+1	Bacteria	TM7	TM7-3
+1	Bacteria	TM7	TM7-3	CW040
+1	Bacteria	Planctomycetes
+1	Bacteria	Verrucomicrobia	Verruco-5	WCHB1-41
+1	Bacteria	OP9	JS1	SB-45
+1	Bacteria	AC1	B04R032
+1	Bacteria	WS3	PRR-12	PBS-III-9
+1	Bacteria	WS4
+1	Bacteria	OP8	OP8_1	HMMVPog-54
+1	Bacteria	CD12
+1	Bacteria	BRC1	PRR-11
+1	Bacteria	NPL-UPA2
+1	Bacteria	OP1	OPB14
+1	Bacteria	OD1

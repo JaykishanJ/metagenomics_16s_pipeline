@@ -1,0 +1,13 @@
+name: picrust2
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - picrust2=2.0.3_b
+  - epa-ng
+  - gappa
+  - vsearch
+  - biom-format
+  - pandas

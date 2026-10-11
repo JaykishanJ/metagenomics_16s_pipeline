@@ -1,0 +1,25 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Raw sequence data
+data/fastq/*.fastq.gz
+data/fastq/*.fq.gz
+data/fastq/*.fastq
+data/fastq/*.fq
+
+# Kraken2 & Bracken databases
+kraken2_db/
+
+# Intermediate classification read outputs
+results/*.kraken
+results/functional/scratch/
+
+# Conda / environments
+.conda/
+.env/
+
+# OS specific
+.DS_Store
+Thumbs.db
