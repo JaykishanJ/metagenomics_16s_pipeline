@@ -48,6 +48,12 @@ flowchart TD
     end
 ```
 
+<p align="center">
+  <img src="results/figures/workflow_pipeline_overview.png" width="100%" alt="End-to-End Metagenomics 16S Pipeline Architecture" />
+</p>
+
+* **Figure 0**: Comprehensive computational architecture and analytical workflow. Stages 1–5 depict raw input processing, reference database construction, Kraken2/Bracken taxonomic abundance quantification, interactive multi-rank Krona visualization, diversity statistics, multivariate PERMANOVA hypothesis testing, and PICRUSt2/metabolic functional potential prediction. High-resolution vector versions are accessible in [`results/figures/workflow_pipeline_overview.pdf`](results/figures/workflow_pipeline_overview.pdf).
+
 ---
 
 ## Publication Results Gallery
