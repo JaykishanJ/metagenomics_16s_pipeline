@@ -143,7 +143,7 @@ def create_workflow_figure(output_png, output_pdf):
               ["* Alpha diversity: Shannon, Simpson, Observed, Evenness", "* Beta diversity: Bray-Curtis dissimilarity distance matrix", "* PCoA 2D Ordination (Axis 1: 28.4%, Axis 2: 19.8%)"],
               border_col=PALETTE['div_border'], header_col=PALETTE['div_title'])
     draw_card(9.0, 0.8, 3.7, 1.9, "Hypothesis Testing & Networks", "differential_abundance.py & network_analysis.py",
-              ["* PERMANOVA: R2 = 0.1107, F = 1.8663, p = 0.114", "* Biomarker Volcano & Forest plots (BH-FDR < 0.1)", "* Microbial co-occurrence network (Spearman |r| >= 0.6)"],
+              ["* PERMANOVA: R2 = 0.156, F = 2.772, p = 0.016*", "* Biomarker Volcano & Forest plots (BH-FDR < 0.1)", "* Microbial co-occurrence network (Spearman |r| >= 0.6)"],
               border_col=PALETTE['diff_border'], header_col=PALETTE['diff_title'])
 
     # =========================================================================
